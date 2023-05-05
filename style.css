@@ -12,8 +12,12 @@
   font-family: 'Nunito Sans', sans-serif;
 }
 
-
 div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.img fluid {
   margin-top: 10px;
   margin-bottom: 10px;
 }
