@@ -17,3 +17,19 @@ div {
   margin-bottom: 10px;
 }
 
+.background {
+  background-color: #0e1111;
+}
+
+.space {
+  font-family: 'Domine', serif;
+  font-size: 300%
+  color: #FFFFFF;
+  text-align: center;
+}
+  
+  div.col-lg-6 {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #FFFFFF;
+}
+  
